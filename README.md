@@ -1,1 +1,1 @@
-# hodlinfo-clone-backend
+# Frontend code for this backend is in [https://github.com/Shalom2212/hodlinfo-clone-frontend] (https://github.com/Shalom2212/hodlinfo-clone-frontend)
